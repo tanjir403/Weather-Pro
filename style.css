@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #6ccde7, #aef177);
+  color: rgb(0, 0, 0);
+}
+
+.app {
+  text-align: center;
+  background: rgba(132, 93, 240, 0.3);
+  padding: 20px;
+  border-radius: 12px;
+}
